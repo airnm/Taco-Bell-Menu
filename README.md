@@ -3,23 +3,20 @@
 
 
 ## Description
-For this project is to create some sort of menu system for users that will make it easy for them to see all the nutritional 
-facts of their order, live as its being ordered. We are considering basing this menu system off of Taco Bells. So that the users might 
-choose to eat a little healthier while ordering fast food.
-
+The purpose for this project is to create some sort of menu system for users that will make it easy for them to see all the nutritional 
+facts of their order, live as its being ordered. The menu system is based off of the famous fast food giant, Taco Bell. Our goal is for users to understand what kind of calories, fats, carbs, etc that they're intaking when eating out at these places.
 
 
 ## Installation
 To use this all you need to install is an IDE that will compile and run C++ code.
 
 ## Usage
-Is to allow the user to keep track of their daily micro and macro nutrients.
+To allow the user to keep track of their daily micro and macro nutrients.
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 If there are any issues with this code email one of these emails.
-* michael.austin@wallawalla.edu
 * aaron.martinez@wallawalla.edu
+* michael.austin@wallawalla.edu
 * andree.contrera@wallawalla.edu
 * mathew.arnold@wallawalla.edu
 
