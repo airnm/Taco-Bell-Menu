@@ -1,4 +1,4 @@
-# Read Me # Project 3
+# Read Me 
 # Taco Bell Menu With Nutritional Calculator
 
 
@@ -21,15 +21,15 @@ If there are any issues with this code email one of these emails.
 * mathew.arnold@wallawalla.edu
 
 ## Roadmap
-In the future we can include additional features such as better user interface.
+In the future we can include additional features such as better user interface, more menu systems for other fast food restertaunts, and potentially an app.
 
 ## Contributing
-We use a priavte repo that does not allow 
+We use a priavte repo that does not allow contributing.
 
 ## Authors and acknowledgment
 Authors and creators of this file include:
-* Mike Austin 
 * Aaron Martinez
+* Mike Austin 
 * Andree Contreras
 * Mathew Arnold
 
